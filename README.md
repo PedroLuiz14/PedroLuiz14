@@ -23,8 +23,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="left">
 <p>
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=PedroLuiz14&show_icons=true&theme=react" alt="Pedro's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuiz14&layout=compact&theme=react" alt="Pedro's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=PedroLuiz14&show_icons=true&theme=react" alt="Pedro's stats"/>
+<img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuiz14&layout=compact&theme=react" alt="Pedro's most languages"/>
 </p>
 </div>
 <br><br>
