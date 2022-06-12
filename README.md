@@ -1,12 +1,12 @@
 
-<h1 align="left">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Pedro!</h1>
+<h1 align="left">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px">, eu sou o Pedro!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroLuiz14&color=blue" alt="Profile views" /> </p>
 - 📚 Estou me capacitando para me tornar um Desenvolvedor Front-End.
 <br><br>
 
 ## 🌎 &nbsp;Contato
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/pedro14/" target="_blank"><img align="center" alt="Linkedin" height="50" width="50" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1652028599~hmac=bab3137710cf154defa7365779858c80">
+  <a href="https://www.linkedin.com/in/pedro14/" target="_blank"><img align="center" alt="Linkedin" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
   <a href = "mailto:pedroruass@gmail.com" target="_blank"><img align="center" alt="Gmail" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
 </div>
 
