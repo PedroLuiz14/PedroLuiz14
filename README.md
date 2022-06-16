@@ -1,13 +1,16 @@
 
-<h1 align="left">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px">, eu sou o Pedro!</h1>
+<h1 align="left">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px" height="40">, eu sou o Pedro!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroLuiz14&color=blue" alt="Profile views" /> </p>
 - 📚 Estou me capacitando para me tornar um Desenvolvedor Front-End.
 <br><br>
 
 ## 🌎 &nbsp;Contato
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/pedro14/" target="_blank"><img align="center" alt="Linkedin" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
-  <a href = "mailto:pedroruass@gmail.com" target="_blank"><img align="center" alt="Gmail" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
+<div align="left">
+  <a href="https://www.linkedin.com/in/pedro14/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /> -->
+  <a href = "mailto:pedroruass@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ## 🛠️ &nbsp;Linguagens & Frameworks
