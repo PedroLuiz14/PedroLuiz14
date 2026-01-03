@@ -1,7 +1,7 @@
 
 <h1 align="left">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px" height="40">, eu sou o Pedro!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroLuiz14&color=blue" alt="Profile views" /> </p>
-- 📚 Estou me capacitando para me tornar um Desenvolvedor Front-End.
+- 📚 Em processo de transição de carreira para área de tecnologia.
 <br><br>
 
 ## 🌎 &nbsp;Contato
